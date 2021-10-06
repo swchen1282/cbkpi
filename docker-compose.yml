@@ -1,0 +1,41 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+  fast-api:
+    image: fast-api
+    container_name: fast-api
+    restart: always
+    ports:
+      - "5000:5000"
+    networks:
+      - mongo
+    volumes:
+      - /home/swc/docker_volumes/cathay-fast-api:/opt/app
+  mongo:
+    image: mongo
+    container_name: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - "27017:27017"
+    networks:
+      - mongo
+    volumes:
+      - /home/swc/docker_volumes/mongo:/data/db
+  mongo-express:
+    image: mongo-express
+    container_name: mongo_express
+    restart: always
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+    networks:
+      - mongo
+networks:
+  mongo:
