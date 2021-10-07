@@ -1,0 +1,123 @@
+[2021-10-12 22:43:10,948] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_reader 2021-10-12T14:37:58.094228+00:00 [queued]>
+[2021-10-12 22:43:10,955] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_reader 2021-10-12T14:37:58.094228+00:00 [queued]>
+[2021-10-12 22:43:10,955] {taskinstance.py:1095} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:43:10,955] {taskinstance.py:1096} INFO - Starting attempt 1 of 3
+[2021-10-12 22:43:10,955] {taskinstance.py:1097} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:43:10,962] {taskinstance.py:1115} INFO - Executing <Task(PythonOperator): data_reader> on 2021-10-12T14:37:58.094228+00:00
+[2021-10-12 22:43:10,965] {standard_task_runner.py:52} INFO - Started process 212967 to run task
+[2021-10-12 22:43:10,969] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'estate_pipeline', 'data_reader', '2021-10-12T14:37:58.094228+00:00', '--job-id', '10', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/main_dag.py', '--cfg-path', '/tmp/tmp0oi1gf9s', '--error-file', '/tmp/tmpndrjfcru']
+[2021-10-12 22:43:10,969] {standard_task_runner.py:77} INFO - Job 10: Subtask data_reader
+[2021-10-12 22:43:10,991] {logging_mixin.py:109} INFO - Running <TaskInstance: estate_pipeline.data_reader 2021-10-12T14:37:58.094228+00:00 [running]> on host ubuntu
+[2021-10-12 22:43:11,018] {taskinstance.py:1252} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=swchen1282@gmail.com
+AIRFLOW_CTX_DAG_OWNER=swc
+AIRFLOW_CTX_DAG_ID=estate_pipeline
+AIRFLOW_CTX_TASK_ID=data_reader
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-12T14:37:58.094228+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-12T14:37:58.094228+00:00
+[2021-10-12 22:43:11,019] {logging_mixin.py:109} INFO - absolute_path=/home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:43:11,019] {logging_mixin.py:109} INFO - data_source_path=/home/swc/job_hunt/cbkpi/app
+[2021-10-12 22:43:11,019] {logging_mixin.py:109} INFO - ['106S1', '106S1.zip', '106S2', '106S2.zip', '106S3', '106S3.zip', '106S4', '106S4.zip', '107S1', '107S1.zip', '107S2', '107S2.zip', '107S3', '107S3.zip', '107S4', '107S4.zip', '108S1', '108S1.zip', '108S2', '108S2.zip', '108S3', '108S3.zip', '108S4', '108S4.zip', '109S1', '109S1.zip', '109S2', '109S2.zip', '109S3', '109S3.zip', '109S4', '109S4.zip']
+[2021-10-12 22:43:11,019] {logging_mixin.py:109} INFO - current path is: /home/swc/job_hunt/cbkpi/app/data_source; start data processing
+[2021-10-12 22:43:11,098] {logging_mixin.py:109} INFO - import 106_1_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,155] {logging_mixin.py:109} INFO - import 106_1_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,266] {logging_mixin.py:109} INFO - import 106_1_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,285] {logging_mixin.py:109} INFO - import 106_1_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:11,301] {logging_mixin.py:109} INFO - import 106_1_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:11,301] {logging_mixin.py:109} INFO - 106S1.zip is a zip file, skip
+[2021-10-12 22:43:11,373] {logging_mixin.py:109} INFO - import 106_2_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,430] {logging_mixin.py:109} INFO - import 106_2_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,536] {logging_mixin.py:109} INFO - import 106_2_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,562] {logging_mixin.py:109} INFO - import 106_2_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:11,563] {logging_mixin.py:109} INFO - 106S2.zip is a zip file, skip
+[2021-10-12 22:43:11,658] {logging_mixin.py:109} INFO - import 106_3_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,726] {logging_mixin.py:109} INFO - import 106_3_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,877] {logging_mixin.py:109} INFO - import 106_3_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:11,911] {logging_mixin.py:109} INFO - import 106_3_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:11,942] {logging_mixin.py:109} INFO - import 106_3_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:11,943] {logging_mixin.py:109} INFO - 106S3.zip is a zip file, skip
+[2021-10-12 22:43:12,040] {logging_mixin.py:109} INFO - import 106_4_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,118] {logging_mixin.py:109} INFO - import 106_4_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,267] {logging_mixin.py:109} INFO - import 106_4_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,305] {logging_mixin.py:109} INFO - import 106_4_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:12,345] {logging_mixin.py:109} INFO - import 106_4_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:12,345] {logging_mixin.py:109} INFO - 106S4.zip is a zip file, skip
+[2021-10-12 22:43:12,440] {logging_mixin.py:109} INFO - import 107_1_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,526] {logging_mixin.py:109} INFO - import 107_1_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,683] {logging_mixin.py:109} INFO - import 107_1_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,740] {logging_mixin.py:109} INFO - import 107_1_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:12,792] {logging_mixin.py:109} INFO - import 107_1_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:12,794] {logging_mixin.py:109} INFO - 107S1.zip is a zip file, skip
+[2021-10-12 22:43:12,897] {logging_mixin.py:109} INFO - import 107_2_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:12,994] {logging_mixin.py:109} INFO - import 107_2_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:13,162] {logging_mixin.py:109} INFO - import 107_2_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:13,252] {logging_mixin.py:109} INFO - import 107_2_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:13,404] {logging_mixin.py:109} INFO - import 107_2_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:13,404] {logging_mixin.py:109} INFO - 107S2.zip is a zip file, skip
+[2021-10-12 22:43:13,605] {logging_mixin.py:109} INFO - import 107_3_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:13,744] {logging_mixin.py:109} INFO - import 107_3_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:13,963] {logging_mixin.py:109} INFO - import 107_3_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:14,069] {logging_mixin.py:109} INFO - import 107_3_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:14,137] {logging_mixin.py:109} INFO - import 107_3_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:14,138] {logging_mixin.py:109} INFO - 107S3.zip is a zip file, skip
+[2021-10-12 22:43:14,264] {logging_mixin.py:109} INFO - import 107_4_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:14,384] {logging_mixin.py:109} INFO - import 107_4_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:14,562] {logging_mixin.py:109} INFO - import 107_4_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:14,637] {logging_mixin.py:109} INFO - import 107_4_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:14,715] {logging_mixin.py:109} INFO - import 107_4_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:14,716] {logging_mixin.py:109} INFO - 107S4.zip is a zip file, skip
+[2021-10-12 22:43:14,860] {logging_mixin.py:109} INFO - import 108_1_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:14,980] {logging_mixin.py:109} INFO - import 108_1_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:15,160] {logging_mixin.py:109} INFO - import 108_1_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:15,249] {logging_mixin.py:109} INFO - import 108_1_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:15,330] {logging_mixin.py:109} INFO - import 108_1_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:15,330] {logging_mixin.py:109} INFO - 108S1.zip is a zip file, skip
+[2021-10-12 22:43:15,497] {logging_mixin.py:109} INFO - import 108_2_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:15,630] {logging_mixin.py:109} INFO - import 108_2_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:15,814] {logging_mixin.py:109} INFO - import 108_2_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:15,912] {logging_mixin.py:109} INFO - import 108_2_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:16,012] {logging_mixin.py:109} INFO - import 108_2_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:16,012] {logging_mixin.py:109} INFO - 108S2.zip is a zip file, skip
+[2021-10-12 22:43:16,190] {logging_mixin.py:109} INFO - import 108_3_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:16,351] {logging_mixin.py:109} INFO - import 108_3_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:16,574] {logging_mixin.py:109} INFO - import 108_3_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:16,698] {logging_mixin.py:109} INFO - import 108_3_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:16,798] {logging_mixin.py:109} INFO - import 108_3_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:16,798] {logging_mixin.py:109} INFO - 108S3.zip is a zip file, skip
+[2021-10-12 22:43:16,952] {logging_mixin.py:109} INFO - import 108_4_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:17,108] {logging_mixin.py:109} INFO - import 108_4_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:17,329] {logging_mixin.py:109} INFO - import 108_4_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:17,442] {logging_mixin.py:109} INFO - import 108_4_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:17,561] {logging_mixin.py:109} INFO - import 108_4_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:17,561] {logging_mixin.py:109} INFO - 108S4.zip is a zip file, skip
+[2021-10-12 22:43:17,730] {logging_mixin.py:109} INFO - import 109_1_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:17,866] {logging_mixin.py:109} INFO - import 109_1_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:18,101] {logging_mixin.py:109} INFO - import 109_1_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:18,229] {logging_mixin.py:109} INFO - import 109_1_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:18,349] {logging_mixin.py:109} INFO - import 109_1_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:18,349] {logging_mixin.py:109} INFO - 109S1.zip is a zip file, skip
+[2021-10-12 22:43:18,540] {logging_mixin.py:109} INFO - import 109_2_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:18,684] {logging_mixin.py:109} INFO - import 109_2_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:18,917] {logging_mixin.py:109} INFO - import 109_2_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:19,053] {logging_mixin.py:109} INFO - import 109_2_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:19,207] {logging_mixin.py:109} INFO - import 109_2_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:19,207] {logging_mixin.py:109} INFO - 109S2.zip is a zip file, skip
+[2021-10-12 22:43:19,467] {logging_mixin.py:109} INFO - import 109_3_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:19,683] {logging_mixin.py:109} INFO - import 109_3_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:19,788] {logging_mixin.py:109} WARNING - /home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/operators/python.py:161 DtypeWarning: Columns (3,7,14,15,16,17,18,21,22,24,25) have mixed types.Specify dtype option on import or set low_memory=False.
+[2021-10-12 22:43:19,991] {logging_mixin.py:109} INFO - import 109_3_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:20,172] {logging_mixin.py:109} INFO - import 109_3_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:20,347] {logging_mixin.py:109} INFO - import 109_3_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:20,347] {logging_mixin.py:109} INFO - 109S3.zip is a zip file, skip
+[2021-10-12 22:43:20,617] {logging_mixin.py:109} INFO - import 109_4_E_A data into pd.DataFrame successfully
+[2021-10-12 22:43:20,829] {logging_mixin.py:109} INFO - import 109_4_A_A data into pd.DataFrame successfully
+[2021-10-12 22:43:21,153] {logging_mixin.py:109} INFO - import 109_4_F_A data into pd.DataFrame successfully
+[2021-10-12 22:43:21,439] {logging_mixin.py:109} INFO - import 109_4_H_B data into pd.DataFrame successfully
+[2021-10-12 22:43:21,672] {logging_mixin.py:109} INFO - import 109_4_B_B data into pd.DataFrame successfully
+[2021-10-12 22:43:21,672] {logging_mixin.py:109} INFO - 109S4.zip is a zip file, skip
+[2021-10-12 22:43:26,166] {python.py:151} INFO - Done. Returned value was: successfully
+[2021-10-12 22:43:26,177] {taskinstance.py:1212} INFO - Marking task as SUCCESS. dag_id=estate_pipeline, task_id=data_reader, execution_date=20211012T143758, start_date=20211012T144310, end_date=20211012T144326
+[2021-10-12 22:43:26,219] {local_task_job.py:151} INFO - Task exited with return code 0
+[2021-10-12 22:43:26,233] {local_task_job.py:261} INFO - 1 downstream tasks scheduled from follow-on schedule check

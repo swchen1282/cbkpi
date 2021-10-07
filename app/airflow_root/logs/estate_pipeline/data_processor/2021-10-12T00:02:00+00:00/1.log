@@ -1,0 +1,53 @@
+[2021-10-12 22:56:14,322] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_processor 2021-10-12T00:02:00+00:00 [queued]>
+[2021-10-12 22:56:14,329] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_processor 2021-10-12T00:02:00+00:00 [queued]>
+[2021-10-12 22:56:14,329] {taskinstance.py:1095} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:56:14,329] {taskinstance.py:1096} INFO - Starting attempt 1 of 3
+[2021-10-12 22:56:14,329] {taskinstance.py:1097} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:56:14,337] {taskinstance.py:1115} INFO - Executing <Task(PythonOperator): data_processor> on 2021-10-12T00:02:00+00:00
+[2021-10-12 22:56:14,341] {standard_task_runner.py:52} INFO - Started process 214547 to run task
+[2021-10-12 22:56:14,344] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'estate_pipeline', 'data_processor', '2021-10-12T00:02:00+00:00', '--job-id', '30', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/main_dag.py', '--cfg-path', '/tmp/tmplg0s669s', '--error-file', '/tmp/tmphusqbce4']
+[2021-10-12 22:56:14,345] {standard_task_runner.py:77} INFO - Job 30: Subtask data_processor
+[2021-10-12 22:56:14,369] {logging_mixin.py:109} INFO - Running <TaskInstance: estate_pipeline.data_processor 2021-10-12T00:02:00+00:00 [running]> on host ubuntu
+[2021-10-12 22:56:14,400] {taskinstance.py:1252} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=swchen1282@gmail.com
+AIRFLOW_CTX_DAG_OWNER=swc
+AIRFLOW_CTX_DAG_ID=estate_pipeline
+AIRFLOW_CTX_TASK_ID=data_processor
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-12T00:02:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-10-12T00:02:00+00:00
+[2021-10-12 22:56:14,402] {taskinstance.py:1463} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1165, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1283, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1313, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 150, in execute
+    return_value = self.execute_callable()
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/operators/python.py", line 161, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_processor.py", line 61, in data_processor
+    df_all = pd.read_csv('df_all.csv')
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+    self.handles = get_handle(
+  File "/home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'df_all.csv'
+[2021-10-12 22:56:14,412] {taskinstance.py:1506} INFO - Marking task as UP_FOR_RETRY. dag_id=estate_pipeline, task_id=data_processor, execution_date=20211012T000200, start_date=20211012T145614, end_date=20211012T145614
+[2021-10-12 22:56:14,441] {local_task_job.py:151} INFO - Task exited with return code 1
+[2021-10-12 22:56:14,451] {local_task_job.py:261} INFO - 0 downstream tasks scheduled from follow-on schedule check

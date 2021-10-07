@@ -1,10 +1,7 @@
 ## Add ENV (./venv/bin/activate)
-```
-# add PYTHONPATH
-export PYTHONPATH=$(pwd)
-
-# add airflow root dir on 
-export AIRFLOW_HOME=$(pwd)/airflow_root
+```sh
+cd <project_root>
+source ./app/airflow_root/env.sh
 ```
 
 ## Activate airflow
@@ -28,8 +25,6 @@ airflow scheduler
 ### setting configs (($AIRFLOW_HOME)/airflow.cfg)
 
 - change `load_examples = False` inside `airflow.cfg` and use command `airflow db reset`
-- or set AIRFLOW__CORE__LOAD_EXAMPLES: 'false' in `docker-compose.yml`
-- 
 
 ### mail server (smtp)
 

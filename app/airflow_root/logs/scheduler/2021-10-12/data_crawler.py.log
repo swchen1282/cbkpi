@@ -1,0 +1,85 @@
+[2021-10-12 13:33:05,611] {processor.py:162} INFO - Started process (PID=16816) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:05,612] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:05,613] {logging_mixin.py:109} INFO - [2021-10-12 13:33:05,613] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:05,619] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:05,626] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.018 seconds
+[2021-10-12 13:33:08,598] {processor.py:162} INFO - Started process (PID=16849) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:08,599] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:08,600] {logging_mixin.py:109} INFO - [2021-10-12 13:33:08,600] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:08,608] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:08,616] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.022 seconds
+[2021-10-12 13:33:11,380] {processor.py:162} INFO - Started process (PID=16863) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:11,381] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:11,382] {logging_mixin.py:109} INFO - [2021-10-12 13:33:11,381] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:11,388] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:11,395] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.018 seconds
+[2021-10-12 13:33:13,746] {processor.py:162} INFO - Started process (PID=16877) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:13,748] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:13,749] {logging_mixin.py:109} INFO - [2021-10-12 13:33:13,749] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:13,756] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:13,763] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.021 seconds
+[2021-10-12 13:33:16,646] {processor.py:162} INFO - Started process (PID=16914) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:16,647] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:16,648] {logging_mixin.py:109} INFO - [2021-10-12 13:33:16,648] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:16,655] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:16,662] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.019 seconds
+[2021-10-12 13:33:18,596] {processor.py:162} INFO - Started process (PID=16927) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:18,597] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:18,597] {logging_mixin.py:109} INFO - [2021-10-12 13:33:18,597] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:18,604] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:18,611] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.018 seconds
+[2021-10-12 13:33:20,538] {processor.py:162} INFO - Started process (PID=16936) to work on /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:20,539] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 13:33:20,540] {logging_mixin.py:109} INFO - [2021-10-12 13:33:20,540] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:20,547] {processor.py:625} WARNING - No viable dags retrieved from /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 13:33:20,553] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/data_crawler.py took 0.018 seconds
+[2021-10-12 22:35:14,951] {processor.py:162} INFO - Started process (PID=212031) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:14,953] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:35:14,954] {logging_mixin.py:109} INFO - [2021-10-12 22:35:14,954] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:14,958] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:14,963] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.014 seconds
+[2021-10-12 22:35:46,660] {processor.py:162} INFO - Started process (PID=212298) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:46,661] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:35:46,661] {logging_mixin.py:109} INFO - [2021-10-12 22:35:46,661] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:46,667] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:35:46,673] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.015 seconds
+[2021-10-12 22:44:44,460] {processor.py:162} INFO - Started process (PID=213173) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:44:44,461] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:44:44,462] {logging_mixin.py:109} INFO - [2021-10-12 22:44:44,462] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:44:44,467] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:44:44,472] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.015 seconds
+[2021-10-12 22:47:12,400] {processor.py:162} INFO - Started process (PID=213547) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:47:12,402] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:47:12,403] {logging_mixin.py:109} INFO - [2021-10-12 22:47:12,403] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:47:12,407] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:47:12,412] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.013 seconds
+[2021-10-12 22:48:24,056] {processor.py:162} INFO - Started process (PID=213747) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:48:24,057] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:48:24,057] {logging_mixin.py:109} INFO - [2021-10-12 22:48:24,057] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:48:24,061] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:48:24,066] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.012 seconds
+[2021-10-12 22:56:03,896] {processor.py:162} INFO - Started process (PID=214415) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:03,898] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:56:03,898] {logging_mixin.py:109} INFO - [2021-10-12 22:56:03,898] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:03,904] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:03,915] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.022 seconds
+[2021-10-12 22:56:36,455] {processor.py:162} INFO - Started process (PID=214765) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:36,455] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:56:36,456] {logging_mixin.py:109} INFO - [2021-10-12 22:56:36,456] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:36,460] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:56:36,465] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.012 seconds
+[2021-10-12 22:57:08,958] {processor.py:162} INFO - Started process (PID=214976) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:08,959] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:57:08,960] {logging_mixin.py:109} INFO - [2021-10-12 22:57:08,960] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:08,964] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:08,969] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.013 seconds
+[2021-10-12 22:57:41,497] {processor.py:162} INFO - Started process (PID=215067) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:41,500] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:57:41,500] {logging_mixin.py:109} INFO - [2021-10-12 22:57:41,500] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:41,510] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:57:41,517] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.022 seconds
+[2021-10-12 22:58:13,687] {processor.py:162} INFO - Started process (PID=215298) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:58:13,688] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py for tasks to queue
+[2021-10-12 22:58:13,689] {logging_mixin.py:109} INFO - [2021-10-12 22:58:13,689] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:58:13,693] {processor.py:625} WARNING - No viable dags retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py
+[2021-10-12 22:58:13,698] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py took 0.013 seconds

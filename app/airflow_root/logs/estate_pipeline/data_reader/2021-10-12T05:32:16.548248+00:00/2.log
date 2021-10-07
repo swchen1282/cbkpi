@@ -1,0 +1,79 @@
+[2021-10-12 13:35:26,110] {taskinstance.py:897} INFO - Dependencies not met for <TaskInstance: estate_pipeline.data_reader 2021-10-12T05:32:16.548248+00:00 [up_for_retry]>, dependency 'Not In Retry Period' FAILED: Task is not ready for retry yet but will be retried automatically. Current date is 2021-10-12T05:35:26.110926+00:00 and task will be retried at 2021-10-12T05:38:21.783176+00:00.
+[2021-10-12 13:35:26,113] {local_task_job.py:96} INFO - Task is not able to be run
+[2021-10-12 13:42:24,614] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_reader 2021-10-12T05:32:16.548248+00:00 [queued]>
+[2021-10-12 13:42:24,622] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_reader 2021-10-12T05:32:16.548248+00:00 [queued]>
+[2021-10-12 13:42:24,622] {taskinstance.py:1095} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 13:42:24,623] {taskinstance.py:1096} INFO - Starting attempt 2 of 3
+[2021-10-12 13:42:24,623] {taskinstance.py:1097} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 13:42:24,630] {taskinstance.py:1115} INFO - Executing <Task(PythonOperator): data_reader> on 2021-10-12T05:32:16.548248+00:00
+[2021-10-12 13:42:24,635] {standard_task_runner.py:52} INFO - Started process 20226 to run task
+[2021-10-12 13:42:24,640] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'estate_pipeline', 'data_reader', '2021-10-12T05:32:16.548248+00:00', '--job-id', '13', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/main_dag.py', '--cfg-path', '/tmp/tmpw1_bydh5', '--error-file', '/tmp/tmpxfw3z5l4']
+[2021-10-12 13:42:24,644] {standard_task_runner.py:77} INFO - Job 13: Subtask data_reader
+[2021-10-12 13:42:24,678] {logging_mixin.py:109} INFO - Running <TaskInstance: estate_pipeline.data_reader 2021-10-12T05:32:16.548248+00:00 [running]> on host ubuntu
+[2021-10-12 13:42:24,706] {taskinstance.py:1254} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=swchen1282@gmail.com
+AIRFLOW_CTX_DAG_OWNER=swc
+AIRFLOW_CTX_DAG_ID=estate_pipeline
+AIRFLOW_CTX_TASK_ID=data_reader
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-12T05:32:16.548248+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-12T05:32:16.548248+00:00
+[2021-10-12 13:42:24,707] {logging_mixin.py:109} INFO - absolute_path=/home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:42:24,707] {logging_mixin.py:109} INFO - data_source_path=/home/dev/cbkpi/app
+[2021-10-12 13:42:24,708] {logging_mixin.py:109} INFO - ['107S4.zip', '108S2.zip', '108S3.zip', '107S1', '107S1.zip', '109S1', '106S1', '108S4.zip', '108S4', '107S2', '107S2.zip', '106S2.zip', '108S3', '109S2', '109S4.zip', '106S2', '107S4', '106S3', '108S1', '109S2.zip', '106S3.zip', '106S4.zip', '109S3', '109S4', '109S1.zip', '106S4', '107S3', '108S1.zip', '106S1.zip', '107S3.zip', '108S2', '109S3.zip']
+[2021-10-12 13:42:24,708] {logging_mixin.py:109} INFO - current path is: /home/dev/cbkpi/app/data_source; start data processing
+[2021-10-12 13:42:24,710] {logging_mixin.py:109} INFO - 107S4.zip is a zip file, skip
+[2021-10-12 13:42:24,710] {logging_mixin.py:109} INFO - 108S2.zip is a zip file, skip
+[2021-10-12 13:42:24,710] {logging_mixin.py:109} INFO - 108S3.zip is a zip file, skip
+[2021-10-12 13:42:24,737] {logging_mixin.py:109} INFO - import 107_1_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:24,886] {logging_mixin.py:109} INFO - import 107_1_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:24,909] {logging_mixin.py:109} INFO - import 107_1_H_B data into pd.DataFrame successfully
+[2021-10-12 13:42:25,008] {logging_mixin.py:109} INFO - import 107_1_E_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,104] {logging_mixin.py:109} INFO - import 107_1_A_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,104] {logging_mixin.py:109} INFO - 107S1.zip is a zip file, skip
+[2021-10-12 13:42:25,138] {logging_mixin.py:109} INFO - import 109_1_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:25,326] {logging_mixin.py:109} INFO - import 109_1_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,358] {logging_mixin.py:109} INFO - import 109_1_H_B data into pd.DataFrame successfully
+[2021-10-12 13:42:25,468] {logging_mixin.py:109} INFO - import 109_1_E_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,547] {logging_mixin.py:109} INFO - import 109_1_A_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,582] {logging_mixin.py:109} INFO - import 106_1_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:25,737] {logging_mixin.py:109} INFO - import 106_1_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,789] {logging_mixin.py:109} INFO - import 106_1_H_B data into pd.DataFrame successfully
+[2021-10-12 13:42:25,900] {logging_mixin.py:109} INFO - import 106_1_E_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,999] {logging_mixin.py:109} INFO - import 106_1_A_A data into pd.DataFrame successfully
+[2021-10-12 13:42:25,999] {logging_mixin.py:109} INFO - 108S4.zip is a zip file, skip
+[2021-10-12 13:42:26,057] {logging_mixin.py:109} INFO - import 108_4_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:26,231] {logging_mixin.py:109} INFO - import 108_4_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:26,325] {logging_mixin.py:109} INFO - import 108_4_H_B data into pd.DataFrame successfully
+[2021-10-12 13:42:26,439] {logging_mixin.py:109} INFO - import 108_4_E_A data into pd.DataFrame successfully
+[2021-10-12 13:42:26,566] {logging_mixin.py:109} INFO - import 108_4_A_A data into pd.DataFrame successfully
+[2021-10-12 13:42:26,661] {logging_mixin.py:109} INFO - import 107_2_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:26,807] {logging_mixin.py:109} INFO - import 107_2_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:26,907] {logging_mixin.py:109} INFO - import 107_2_H_B data into pd.DataFrame successfully
+[2021-10-12 13:42:27,059] {logging_mixin.py:109} INFO - import 107_2_E_A data into pd.DataFrame successfully
+[2021-10-12 13:42:27,241] {logging_mixin.py:109} INFO - import 107_2_A_A data into pd.DataFrame successfully
+[2021-10-12 13:42:27,241] {logging_mixin.py:109} INFO - 107S2.zip is a zip file, skip
+[2021-10-12 13:42:27,241] {logging_mixin.py:109} INFO - 106S2.zip is a zip file, skip
+[2021-10-12 13:42:27,398] {logging_mixin.py:109} INFO - import 108_3_B_B data into pd.DataFrame successfully
+[2021-10-12 13:42:27,648] {logging_mixin.py:109} INFO - import 108_3_F_A data into pd.DataFrame successfully
+[2021-10-12 13:42:27,659] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 20226
+[2021-10-12 13:42:27,660] {taskinstance.py:1236} ERROR - Received SIGTERM. Terminating subprocesses.
+[2021-10-12 13:42:27,664] {taskinstance.py:1463} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1165, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1283, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1313, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/operators/python.py", line 150, in execute
+    return_value = self.execute_callable()
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/operators/python.py", line 161, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/dev/cbkpi/app/airflow_root/dags/data_reader.py", line 30, in data_reader
+    data = data.set_axis(list(data.iloc[0, ]), axis=1).iloc[1:, ]  # use second row as new column names, and remove it
+  File "/home/dev/cbkpi/venv/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 1238, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2021-10-12 13:42:27,666] {taskinstance.py:1513} INFO - Marking task as UP_FOR_RETRY. dag_id=estate_pipeline, task_id=data_reader, execution_date=20211012T053216, start_date=20211012T054224, end_date=20211012T054227

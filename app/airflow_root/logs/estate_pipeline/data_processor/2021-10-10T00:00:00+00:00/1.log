@@ -1,0 +1,38 @@
+[2021-10-12 22:44:16,531] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_processor 2021-10-10T00:00:00+00:00 [queued]>
+[2021-10-12 22:44:16,536] {taskinstance.py:903} INFO - Dependencies all met for <TaskInstance: estate_pipeline.data_processor 2021-10-10T00:00:00+00:00 [queued]>
+[2021-10-12 22:44:16,536] {taskinstance.py:1095} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:44:16,536] {taskinstance.py:1096} INFO - Starting attempt 1 of 3
+[2021-10-12 22:44:16,537] {taskinstance.py:1097} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-12 22:44:16,544] {taskinstance.py:1115} INFO - Executing <Task(PythonOperator): data_processor> on 2021-10-10T00:00:00+00:00
+[2021-10-12 22:44:16,549] {standard_task_runner.py:52} INFO - Started process 213106 to run task
+[2021-10-12 22:44:16,552] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'estate_pipeline', 'data_processor', '2021-10-10T00:00:00+00:00', '--job-id', '14', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/main_dag.py', '--cfg-path', '/tmp/tmp2n35dsgk', '--error-file', '/tmp/tmpwdf0tzan']
+[2021-10-12 22:44:16,553] {standard_task_runner.py:77} INFO - Job 14: Subtask data_processor
+[2021-10-12 22:44:16,580] {logging_mixin.py:109} INFO - Running <TaskInstance: estate_pipeline.data_processor 2021-10-10T00:00:00+00:00 [running]> on host ubuntu
+[2021-10-12 22:44:16,610] {taskinstance.py:1252} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=swchen1282@gmail.com
+AIRFLOW_CTX_DAG_OWNER=swc
+AIRFLOW_CTX_DAG_ID=estate_pipeline
+AIRFLOW_CTX_TASK_ID=data_processor
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-10T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-10-10T00:00:00+00:00
+[2021-10-12 22:44:19,946] {logging_mixin.py:109} WARNING - /home/swc/job_hunt/cbkpi/venv/lib/python3.8/site-packages/airflow/operators/python.py:161 DtypeWarning: Columns (14,31) have mixed types.Specify dtype option on import or set low_memory=False.
+[2021-10-12 22:44:20,325] {logging_mixin.py:109} INFO -        The villages and towns urban district transaction sign land sector position building sector house number plate  land shifting total area square meter the use zoning or compiles and checks  ... Unnamed: 29 Unnamed: 30  Unnamed: 31 Unnamed: 32    df_name
+0                                        鼓山區        房地(土地+建物)                                  高雄市鼓山區青海路８２號十二樓之３                                       11.55                                     住  ...        3.30        4.16          NaN         NaN  106_1_E_A
+1                                        鼓山區        房地(土地+建物)                               高雄市鼓山區大順一路１０４１巷７號十五樓                                       11.14                                     住  ...        3.88       12.24          NaN         NaN  106_1_E_A
+2                                        鼓山區     房地(土地+建物)+車位                                 高雄市鼓山區南屏路507號十六樓之1                                       15.66                                     商  ...        4.28       17.18          NaN         NaN  106_1_E_A
+3                                        鹽埕區        房地(土地+建物)                                  高雄市鹽埕區府北路３２號十一樓之５                                        8.47                                     商  ...        0.00        8.61          NaN         NaN  106_1_E_A
+4                                        鼓山區        房地(土地+建物)                                  高雄市鼓山區美術東四路２１６號５樓                                       17.57                                     住  ...        1.83        9.07          NaN         NaN  106_1_E_A
+...                                      ...              ...                                                ...                                         ...                                   ...  ...         ...         ...          ...         ...        ...
+489239                                   太平區     房地(土地+建物)+車位                                    臺中市太平區育賢段65地號店1                                       32.27                                     住  ...         NaN         NaN          NaN         NaN  109_4_B_B
+489240                                   太平區     房地(土地+建物)+車位                                    臺中市太平區育賢段65地號店2                                       24.60                                     住  ...         NaN         NaN          NaN         NaN  109_4_B_B
+489241                                   太平區     房地(土地+建物)+車位                                    臺中市太平區育賢段65地號店3                                       23.65                                     住  ...         NaN         NaN          NaN         NaN  109_4_B_B
+489242                                   太平區     房地(土地+建物)+車位                                    臺中市太平區育賢段65地號店5                                       24.60                                     住  ...         NaN         NaN          NaN         NaN  109_4_B_B
+489243                                   太平區     房地(土地+建物)+車位                                    臺中市太平區育賢段65地號店6                                       24.60                                     住  ...         NaN         NaN          NaN         NaN  109_4_B_B
+
+[489244 rows x 34 columns]
+[2021-10-12 22:44:22,782] {python.py:151} INFO - Done. Returned value was: None
+[2021-10-12 22:44:22,846] {taskinstance.py:1212} INFO - Marking task as SUCCESS. dag_id=estate_pipeline, task_id=data_processor, execution_date=20211010T000000, start_date=20211012T144416, end_date=20211012T144422
+[2021-10-12 22:44:22,888] {local_task_job.py:151} INFO - Task exited with return code 0
+[2021-10-12 22:44:22,898] {local_task_job.py:261} INFO - 0 downstream tasks scheduled from follow-on schedule check

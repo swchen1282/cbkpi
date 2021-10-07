@@ -1,0 +1,2 @@
+[2021-10-12 22:44:57,789] {taskinstance.py:893} INFO - Dependencies not met for <TaskInstance: estate_pipeline.data_reader 2021-10-10T00:02:00+00:00 [up_for_retry]>, dependency 'Not In Retry Period' FAILED: Task is not ready for retry yet but will be retried automatically. Current date is 2021-10-12T14:44:57.789041+00:00 and task will be retried at 2021-10-13T02:44:55.847991+00:00.
+[2021-10-12 22:44:57,790] {local_task_job.py:96} INFO - Task is not able to be run

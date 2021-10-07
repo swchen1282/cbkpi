@@ -1,0 +1,262 @@
+[2021-10-12 13:33:03,584] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 13:33:03,585] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 13:33:03,585] {manager.py:607} INFO - Checking for new files in /home/dev/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 13:33:03,585] {manager.py:754} INFO - Searching for files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:33:03,592] {manager.py:757} INFO - There are 2 files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:33:03,638] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 13:33:03,638] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 05:28:03.638335+00:00
+[2021-10-12 13:33:04,559] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/dev/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/dev/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.91s           2021-10-12T05:33:04
+================================================================================
+[2021-10-12 13:33:13,730] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 13:33:13,730] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 05:28:13.730271+00:00
+[2021-10-12 13:35:22,748] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 13:37:48,642] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 13:37:48,642] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 13:37:48,642] {manager.py:607} INFO - Checking for new files in /home/dev/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 13:37:48,643] {manager.py:754} INFO - Searching for files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:37:48,648] {manager.py:757} INFO - There are 2 files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:37:48,670] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 13:37:48,670] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 05:32:48.670539+00:00
+[2021-10-12 13:37:49,387] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/dev/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/dev/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.71s           2021-10-12T05:37:49
+================================================================================
+[2021-10-12 13:40:39,644] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 13:40:40,394] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 13:40:40,395] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 13:40:40,395] {manager.py:607} INFO - Checking for new files in /home/dev/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 13:40:40,395] {manager.py:754} INFO - Searching for files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:40:40,404] {manager.py:757} INFO - There are 2 files in /home/dev/cbkpi/app/airflow_root/dags
+[2021-10-12 13:40:40,448] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 13:40:40,449] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 05:35:40.449424+00:00
+[2021-10-12 13:40:41,479] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/dev/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/dev/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  1.01s           2021-10-12T05:40:41
+================================================================================
+[2021-10-12 13:42:19,793] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 22:35:13,096] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 22:35:13,097] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 22:35:13,097] {manager.py:606} INFO - Checking for new files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 22:35:13,097] {manager.py:754} INFO - Searching for files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:35:13,099] {manager.py:757} INFO - There are 2 files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:35:13,136] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:35:13,136] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:30:13.136169+00:00
+[2021-10-12 22:35:13,883] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.74s           2021-10-12T14:35:13
+================================================================================
+[2021-10-12 22:35:23,257] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:35:23,257] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:30:23.257664+00:00
+[2021-10-12 22:35:34,162] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:35:34,163] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:30:34.163426+00:00
+[2021-10-12 22:35:44,265] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.12s           2021-10-12T14:35:15
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.61s           2021-10-12T14:35:44
+================================================================================
+[2021-10-12 22:35:45,190] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:35:45,191] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:30:45.191044+00:00
+[2021-10-12 22:36:27,586] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:36:27,586] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:31:27.586716+00:00
+[2021-10-12 22:36:28,198] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:35:46
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.61s           2021-10-12T14:36:28
+================================================================================
+[2021-10-12 22:36:45,085] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 22:42:52,191] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 22:42:52,191] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 22:42:52,191] {manager.py:606} INFO - Checking for new files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 22:42:52,191] {manager.py:754} INFO - Searching for files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:42:52,193] {manager.py:757} INFO - There are 2 files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:42:52,213] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:42:52,213] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:37:52.213368+00:00
+[2021-10-12 22:42:52,627] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:42:52
+================================================================================
+[2021-10-12 22:43:58,208] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 22:43:58,324] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 22:43:58,324] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 22:43:58,324] {manager.py:606} INFO - Checking for new files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 22:43:58,324] {manager.py:754} INFO - Searching for files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:43:58,325] {manager.py:757} INFO - There are 2 files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:43:58,342] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:43:58,342] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:38:58.342718+00:00
+[2021-10-12 22:43:58,755] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:43:58
+================================================================================
+[2021-10-12 22:44:44,444] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:44:44,444] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:39:44.444637+00:00
+[2021-10-12 22:44:44,554] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:44:44
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:43:58
+================================================================================
+[2021-10-12 22:44:56,718] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 22:46:55,018] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 22:46:55,018] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 22:46:55,018] {manager.py:606} INFO - Checking for new files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 22:46:55,018] {manager.py:754} INFO - Searching for files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:46:55,019] {manager.py:757} INFO - There are 2 files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:46:55,039] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:46:55,039] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:41:55.039464+00:00
+[2021-10-12 22:46:55,454] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:46:55
+================================================================================
+[2021-10-12 22:47:12,387] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:47:12,387] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:42:12.387847+00:00
+[2021-10-12 22:47:36,342] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:47:36,342] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:42:36.342673+00:00
+[2021-10-12 22:47:36,856] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:47:12
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.51s           2021-10-12T14:47:36
+================================================================================
+[2021-10-12 22:48:00,525] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:48:00,525] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:43:00.525329+00:00
+[2021-10-12 22:48:24,043] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:48:24,044] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:43:24.044169+00:00
+[2021-10-12 22:48:24,152] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:48:24
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:48:00
+================================================================================
+[2021-10-12 22:48:25,949] {manager.py:585} INFO - Exiting gracefully upon receiving signal 15
+[2021-10-12 22:56:02,310] {manager.py:604} INFO - Processing files using up to 1 processes at a time 
+[2021-10-12 22:56:02,311] {manager.py:605} INFO - Process each file at most once every 30 seconds
+[2021-10-12 22:56:02,311] {manager.py:606} INFO - Checking for new files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags every 300 seconds
+[2021-10-12 22:56:02,311] {manager.py:754} INFO - Searching for files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:56:02,312] {manager.py:757} INFO - There are 2 files in /home/swc/job_hunt/cbkpi/app/airflow_root/dags
+[2021-10-12 22:56:02,331] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:02,331] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:02.331546+00:00
+[2021-10-12 22:56:02,845] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.51s           2021-10-12T14:56:02
+================================================================================
+[2021-10-12 22:56:12,650] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:12,650] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:12.650532+00:00
+[2021-10-12 22:56:22,859] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:22,859] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:22.859643+00:00
+[2021-10-12 22:56:32,855] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:56:03
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:56:32
+================================================================================
+[2021-10-12 22:56:33,913] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:33,914] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:33.914129+00:00
+[2021-10-12 22:56:44,562] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:44,563] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:44.563142+00:00
+[2021-10-12 22:56:55,564] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:56:55,564] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:51:55.564601+00:00
+[2021-10-12 22:57:03,106] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:56:36
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:57:03
+================================================================================
+[2021-10-12 22:57:06,411] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:57:06,412] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:52:06.412060+00:00
+[2021-10-12 22:57:29,367] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:57:29,368] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:52:29.368220+00:00
+[2021-10-12 22:57:37,308] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:57:09
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.41s           2021-10-12T14:57:37
+================================================================================
+[2021-10-12 22:57:39,924] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:57:39,924] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:52:39.924397+00:00
+[2021-10-12 22:57:50,317] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:57:50,318] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:52:50.318224+00:00
+[2021-10-12 22:58:01,358] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:58:01,359] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:53:01.359064+00:00
+[2021-10-12 22:58:08,690] {manager.py:861} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/data_crawler.py                           0           0  0.10s           2021-10-12T14:57:41
+/home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py                               1           0  0.51s           2021-10-12T14:58:08
+================================================================================
+[2021-10-12 22:58:12,214] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:58:12,214] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:53:12.214706+00:00
+[2021-10-12 22:58:23,164] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:58:23,165] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:53:23.165026+00:00
+[2021-10-12 22:58:34,228] {manager.py:1128} INFO - Finding 'running' jobs without a recent heartbeat
+[2021-10-12 22:58:34,228] {manager.py:1132} INFO - Failing jobs without heartbeat after 2021-10-12 14:53:34.228559+00:00

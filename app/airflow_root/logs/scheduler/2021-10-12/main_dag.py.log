@@ -1,0 +1,917 @@
+[2021-10-12 13:33:03,657] {processor.py:162} INFO - Started process (PID=16807) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:03,658] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:03,659] {logging_mixin.py:109} INFO - [2021-10-12 13:33:03,658] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:04,428] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:04,443] {logging_mixin.py:109} INFO - [2021-10-12 13:33:04,443] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:04,508] {logging_mixin.py:109} INFO - [2021-10-12 13:33:04,507] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:04,516] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.863 seconds
+[2021-10-12 13:33:06,753] {processor.py:162} INFO - Started process (PID=16823) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:06,756] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:06,757] {logging_mixin.py:109} INFO - [2021-10-12 13:33:06,756] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:07,728] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:07,867] {logging_mixin.py:109} INFO - [2021-10-12 13:33:07,867] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:07,888] {logging_mixin.py:109} INFO - [2021-10-12 13:33:07,888] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:07,901] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 1.154 seconds
+[2021-10-12 13:33:09,738] {processor.py:162} INFO - Started process (PID=16854) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:09,739] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:09,740] {logging_mixin.py:109} INFO - [2021-10-12 13:33:09,740] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:10,226] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:10,298] {logging_mixin.py:109} INFO - [2021-10-12 13:33:10,298] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:10,308] {logging_mixin.py:109} INFO - [2021-10-12 13:33:10,308] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:10,316] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.581 seconds
+[2021-10-12 13:33:12,514] {processor.py:162} INFO - Started process (PID=16869) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:12,515] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:12,515] {logging_mixin.py:109} INFO - [2021-10-12 13:33:12,515] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:12,976] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:13,056] {logging_mixin.py:109} INFO - [2021-10-12 13:33:13,056] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:13,065] {logging_mixin.py:109} INFO - [2021-10-12 13:33:13,065] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:13,074] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.563 seconds
+[2021-10-12 13:33:14,889] {processor.py:162} INFO - Started process (PID=16901) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:14,890] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:14,891] {logging_mixin.py:109} INFO - [2021-10-12 13:33:14,891] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:15,404] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:15,511] {logging_mixin.py:109} INFO - [2021-10-12 13:33:15,511] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:15,525] {logging_mixin.py:109} INFO - [2021-10-12 13:33:15,524] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:15,536] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.650 seconds
+[2021-10-12 13:33:17,778] {processor.py:162} INFO - Started process (PID=16915) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:17,779] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:17,779] {logging_mixin.py:109} INFO - [2021-10-12 13:33:17,779] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:18,128] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:18,186] {logging_mixin.py:109} INFO - [2021-10-12 13:33:18,186] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:18,194] {logging_mixin.py:109} INFO - [2021-10-12 13:33:18,193] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:18,200] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.424 seconds
+[2021-10-12 13:33:18,891] {processor.py:162} INFO - Started process (PID=16928) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:18,893] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:33:18,893] {logging_mixin.py:109} INFO - [2021-10-12 13:33:18,893] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:19,378] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:33:19,448] {logging_mixin.py:109} INFO - [2021-10-12 13:33:19,448] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:33:19,458] {logging_mixin.py:109} INFO - [2021-10-12 13:33:19,457] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 13:33:19,465] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.578 seconds
+[2021-10-12 13:37:48,686] {processor.py:162} INFO - Started process (PID=18371) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:37:48,687] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:37:48,687] {logging_mixin.py:109} INFO - [2021-10-12 13:37:48,687] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:37:49,285] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:37:49,299] {logging_mixin.py:109} INFO - [2021-10-12 13:37:49,299] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:37:49,366] {logging_mixin.py:109} INFO - [2021-10-12 13:37:49,366] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07 00:03:00+00:00
+[2021-10-12 13:37:49,373] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.691 seconds
+[2021-10-12 13:40:40,483] {processor.py:162} INFO - Started process (PID=19466) to work on /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:40:40,488] {processor.py:613} INFO - Processing file /home/dev/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 13:40:40,490] {logging_mixin.py:109} INFO - [2021-10-12 13:40:40,489] {dagbag.py:496} INFO - Filling up the DagBag from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:40:41,358] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/dev/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 13:40:41,369] {logging_mixin.py:109} INFO - [2021-10-12 13:40:41,369] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 13:40:41,377] {logging_mixin.py:109} INFO - [2021-10-12 13:40:41,377] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07 00:06:00+00:00
+[2021-10-12 13:40:41,384] {processor.py:170} INFO - Processing /home/dev/cbkpi/app/airflow_root/dags/main_dag.py took 0.908 seconds
+[2021-10-12 22:35:13,170] {processor.py:162} INFO - Started process (PID=212023) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:13,172] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:13,175] {logging_mixin.py:109} INFO - [2021-10-12 22:35:13,174] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:13,835] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:13,848] {logging_mixin.py:109} INFO - [2021-10-12 22:35:13,848] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:13,858] {logging_mixin.py:109} INFO - [2021-10-12 22:35:13,858] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:13,871] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.703 seconds
+[2021-10-12 22:35:16,080] {processor.py:162} INFO - Started process (PID=212032) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:16,081] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:16,081] {logging_mixin.py:109} INFO - [2021-10-12 22:35:16,081] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:16,574] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:16,587] {logging_mixin.py:109} INFO - [2021-10-12 22:35:16,587] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:16,597] {logging_mixin.py:109} INFO - [2021-10-12 22:35:16,597] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:16,609] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.532 seconds
+[2021-10-12 22:35:17,715] {processor.py:162} INFO - Started process (PID=212048) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:17,716] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:17,717] {logging_mixin.py:109} INFO - [2021-10-12 22:35:17,717] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:18,157] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:18,166] {logging_mixin.py:109} INFO - [2021-10-12 22:35:18,166] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:18,173] {logging_mixin.py:109} INFO - [2021-10-12 22:35:18,173] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:18,180] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.467 seconds
+[2021-10-12 22:35:19,266] {processor.py:162} INFO - Started process (PID=212066) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:19,267] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:19,267] {logging_mixin.py:109} INFO - [2021-10-12 22:35:19,267] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:19,721] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:19,730] {logging_mixin.py:109} INFO - [2021-10-12 22:35:19,729] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:19,737] {logging_mixin.py:109} INFO - [2021-10-12 22:35:19,737] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:19,745] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.482 seconds
+[2021-10-12 22:35:20,808] {processor.py:162} INFO - Started process (PID=212074) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:20,809] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:20,809] {logging_mixin.py:109} INFO - [2021-10-12 22:35:20,809] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:21,164] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:21,171] {logging_mixin.py:109} INFO - [2021-10-12 22:35:21,171] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:21,176] {logging_mixin.py:109} INFO - [2021-10-12 22:35:21,176] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:21,183] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.376 seconds
+[2021-10-12 22:35:22,247] {processor.py:162} INFO - Started process (PID=212083) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:22,248] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:22,248] {logging_mixin.py:109} INFO - [2021-10-12 22:35:22,248] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:22,699] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:22,710] {logging_mixin.py:109} INFO - [2021-10-12 22:35:22,710] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:22,717] {logging_mixin.py:109} INFO - [2021-10-12 22:35:22,717] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:22,725] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.480 seconds
+[2021-10-12 22:35:23,270] {processor.py:162} INFO - Started process (PID=212091) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:23,270] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:23,271] {logging_mixin.py:109} INFO - [2021-10-12 22:35:23,271] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:23,590] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:23,601] {logging_mixin.py:109} INFO - [2021-10-12 22:35:23,601] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:23,607] {logging_mixin.py:109} INFO - [2021-10-12 22:35:23,607] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:23,616] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.348 seconds
+[2021-10-12 22:35:24,721] {processor.py:162} INFO - Started process (PID=212099) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:24,722] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:24,722] {logging_mixin.py:109} INFO - [2021-10-12 22:35:24,722] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:25,072] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:25,079] {logging_mixin.py:109} INFO - [2021-10-12 22:35:25,079] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:25,084] {logging_mixin.py:109} INFO - [2021-10-12 22:35:25,084] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:25,091] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.372 seconds
+[2021-10-12 22:35:26,162] {processor.py:162} INFO - Started process (PID=212122) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:26,163] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:26,164] {logging_mixin.py:109} INFO - [2021-10-12 22:35:26,164] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:26,995] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:27,008] {logging_mixin.py:109} INFO - [2021-10-12 22:35:27,008] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:27,019] {logging_mixin.py:109} INFO - [2021-10-12 22:35:27,018] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:27,045] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.886 seconds
+[2021-10-12 22:35:28,113] {processor.py:162} INFO - Started process (PID=212178) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:28,114] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:28,114] {logging_mixin.py:109} INFO - [2021-10-12 22:35:28,114] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:28,491] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:28,500] {logging_mixin.py:109} INFO - [2021-10-12 22:35:28,499] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:28,507] {logging_mixin.py:109} INFO - [2021-10-12 22:35:28,507] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:28,515] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.404 seconds
+[2021-10-12 22:35:28,720] {processor.py:162} INFO - Started process (PID=212186) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:28,721] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:28,722] {logging_mixin.py:109} INFO - [2021-10-12 22:35:28,722] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:29,075] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:29,083] {logging_mixin.py:109} INFO - [2021-10-12 22:35:29,083] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:29,089] {logging_mixin.py:109} INFO - [2021-10-12 22:35:29,088] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:29,095] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.377 seconds
+[2021-10-12 22:35:30,170] {processor.py:162} INFO - Started process (PID=212194) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:30,171] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:30,171] {logging_mixin.py:109} INFO - [2021-10-12 22:35:30,171] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:30,539] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:30,545] {logging_mixin.py:109} INFO - [2021-10-12 22:35:30,545] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:30,552] {logging_mixin.py:109} INFO - [2021-10-12 22:35:30,551] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:30,559] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.391 seconds
+[2021-10-12 22:35:31,615] {processor.py:162} INFO - Started process (PID=212202) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:31,616] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:31,617] {logging_mixin.py:109} INFO - [2021-10-12 22:35:31,616] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:32,094] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:32,102] {logging_mixin.py:109} INFO - [2021-10-12 22:35:32,101] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:32,107] {logging_mixin.py:109} INFO - [2021-10-12 22:35:32,107] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:32,114] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.503 seconds
+[2021-10-12 22:35:33,260] {processor.py:162} INFO - Started process (PID=212210) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:33,261] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:33,262] {logging_mixin.py:109} INFO - [2021-10-12 22:35:33,262] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:33,625] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:33,632] {logging_mixin.py:109} INFO - [2021-10-12 22:35:33,632] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:33,638] {logging_mixin.py:109} INFO - [2021-10-12 22:35:33,638] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:33,646] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.388 seconds
+[2021-10-12 22:35:34,178] {processor.py:162} INFO - Started process (PID=212218) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:34,179] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:34,180] {logging_mixin.py:109} INFO - [2021-10-12 22:35:34,180] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:34,545] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:34,554] {logging_mixin.py:109} INFO - [2021-10-12 22:35:34,553] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:34,559] {logging_mixin.py:109} INFO - [2021-10-12 22:35:34,558] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:34,566] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.390 seconds
+[2021-10-12 22:35:35,630] {processor.py:162} INFO - Started process (PID=212226) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:35,631] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:35,632] {logging_mixin.py:109} INFO - [2021-10-12 22:35:35,632] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:36,019] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:36,027] {logging_mixin.py:109} INFO - [2021-10-12 22:35:36,027] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:36,036] {logging_mixin.py:109} INFO - [2021-10-12 22:35:36,036] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:36,044] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.416 seconds
+[2021-10-12 22:35:37,177] {processor.py:162} INFO - Started process (PID=212234) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:37,178] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:37,179] {logging_mixin.py:109} INFO - [2021-10-12 22:35:37,179] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:37,561] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:37,570] {logging_mixin.py:109} INFO - [2021-10-12 22:35:37,569] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:37,579] {logging_mixin.py:109} INFO - [2021-10-12 22:35:37,579] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:37,587] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.412 seconds
+[2021-10-12 22:35:38,727] {processor.py:162} INFO - Started process (PID=212242) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:38,728] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:38,729] {logging_mixin.py:109} INFO - [2021-10-12 22:35:38,729] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:39,087] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:39,094] {logging_mixin.py:109} INFO - [2021-10-12 22:35:39,093] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:39,099] {logging_mixin.py:109} INFO - [2021-10-12 22:35:39,099] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:39,108] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.383 seconds
+[2021-10-12 22:35:39,631] {processor.py:162} INFO - Started process (PID=212253) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:39,632] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:39,632] {logging_mixin.py:109} INFO - [2021-10-12 22:35:39,632] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:40,073] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:40,092] {logging_mixin.py:109} INFO - [2021-10-12 22:35:40,091] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:40,106] {logging_mixin.py:109} INFO - [2021-10-12 22:35:40,105] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:40,127] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.499 seconds
+[2021-10-12 22:35:41,198] {processor.py:162} INFO - Started process (PID=212261) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:41,199] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:41,200] {logging_mixin.py:109} INFO - [2021-10-12 22:35:41,200] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:41,641] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:41,656] {logging_mixin.py:109} INFO - [2021-10-12 22:35:41,656] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:41,664] {logging_mixin.py:109} INFO - [2021-10-12 22:35:41,664] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:41,674] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.478 seconds
+[2021-10-12 22:35:42,741] {processor.py:162} INFO - Started process (PID=212269) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:42,743] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:42,744] {logging_mixin.py:109} INFO - [2021-10-12 22:35:42,744] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:43,126] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:43,134] {logging_mixin.py:109} INFO - [2021-10-12 22:35:43,134] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:43,141] {logging_mixin.py:109} INFO - [2021-10-12 22:35:43,141] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:43,153] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.414 seconds
+[2021-10-12 22:35:43,672] {processor.py:162} INFO - Started process (PID=212277) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:43,674] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:43,674] {logging_mixin.py:109} INFO - [2021-10-12 22:35:43,674] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:44,176] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:44,185] {logging_mixin.py:109} INFO - [2021-10-12 22:35:44,184] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:44,192] {logging_mixin.py:109} INFO - [2021-10-12 22:35:44,192] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:44,202] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.532 seconds
+[2021-10-12 22:35:45,204] {processor.py:162} INFO - Started process (PID=212285) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:45,204] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:45,205] {logging_mixin.py:109} INFO - [2021-10-12 22:35:45,205] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:45,575] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:45,582] {logging_mixin.py:109} INFO - [2021-10-12 22:35:45,582] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:45,588] {logging_mixin.py:109} INFO - [2021-10-12 22:35:45,588] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:45,596] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.394 seconds
+[2021-10-12 22:35:47,805] {processor.py:162} INFO - Started process (PID=212300) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:47,806] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:35:47,806] {logging_mixin.py:109} INFO - [2021-10-12 22:35:47,806] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:48,202] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:35:48,209] {logging_mixin.py:109} INFO - [2021-10-12 22:35:48,209] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:35:48,215] {logging_mixin.py:109} INFO - [2021-10-12 22:35:48,215] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07T00:00:00+00:00
+[2021-10-12 22:35:48,224] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.421 seconds
+[2021-10-12 22:36:27,597] {processor.py:162} INFO - Started process (PID=212381) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:36:27,598] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:36:27,599] {logging_mixin.py:109} INFO - [2021-10-12 22:36:27,599] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:36:28,113] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:36:28,121] {logging_mixin.py:109} INFO - [2021-10-12 22:36:28,121] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:36:28,128] {logging_mixin.py:109} INFO - [2021-10-12 22:36:28,127] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-07 00:03:00+00:00
+[2021-10-12 22:36:28,134] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.539 seconds
+[2021-10-12 22:42:52,228] {processor.py:162} INFO - Started process (PID=212897) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:42:52,229] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:42:52,230] {logging_mixin.py:109} INFO - [2021-10-12 22:42:52,230] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:42:52,583] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:42:52,594] {logging_mixin.py:109} INFO - [2021-10-12 22:42:52,593] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:42:52,600] {logging_mixin.py:109} INFO - [2021-10-12 22:42:52,600] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-10T00:00:00+00:00
+[2021-10-12 22:42:52,607] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.381 seconds
+[2021-10-12 22:43:58,356] {processor.py:162} INFO - Started process (PID=213047) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:43:58,357] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:43:58,358] {logging_mixin.py:109} INFO - [2021-10-12 22:43:58,358] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:43:58,715] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:43:58,725] {logging_mixin.py:109} INFO - [2021-10-12 22:43:58,725] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:43:58,732] {logging_mixin.py:109} INFO - [2021-10-12 22:43:58,731] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-10 00:01:00+00:00
+[2021-10-12 22:43:58,738] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.385 seconds
+[2021-10-12 22:46:55,053] {processor.py:162} INFO - Started process (PID=213467) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:46:55,055] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:46:55,055] {logging_mixin.py:109} INFO - [2021-10-12 22:46:55,055] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:46:55,404] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:46:55,408] {logging_mixin.py:109} INFO - [2021-10-12 22:46:55,408] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:46:55,413] {logging_mixin.py:109} INFO - [2021-10-12 22:46:55,413] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-10 12:02:00+00:00
+[2021-10-12 22:46:55,420] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.369 seconds
+[2021-10-12 22:47:36,374] {processor.py:162} INFO - Started process (PID=213623) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:47:36,380] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:47:36,380] {logging_mixin.py:109} INFO - [2021-10-12 22:47:36,380] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:47:36,763] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:47:36,770] {logging_mixin.py:109} INFO - [2021-10-12 22:47:36,770] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:47:36,778] {logging_mixin.py:109} INFO - [2021-10-12 22:47:36,778] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-11 12:02:00+00:00
+[2021-10-12 22:47:36,786] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.429 seconds
+[2021-10-12 22:48:00,537] {processor.py:162} INFO - Started process (PID=213687) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:48:00,539] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:48:00,539] {logging_mixin.py:109} INFO - [2021-10-12 22:48:00,539] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:48:00,902] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:48:00,909] {logging_mixin.py:109} INFO - [2021-10-12 22:48:00,909] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:48:00,914] {logging_mixin.py:109} INFO - [2021-10-12 22:48:00,914] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 00:02:00+00:00
+[2021-10-12 22:48:00,922] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.386 seconds
+[2021-10-12 22:56:02,345] {processor.py:162} INFO - Started process (PID=214406) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:02,346] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:02,347] {logging_mixin.py:109} INFO - [2021-10-12 22:56:02,347] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:02,800] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:02,809] {logging_mixin.py:109} INFO - [2021-10-12 22:56:02,808] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:02,815] {logging_mixin.py:109} INFO - [2021-10-12 22:56:02,815] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:02,823] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.480 seconds
+[2021-10-12 22:56:05,044] {processor.py:162} INFO - Started process (PID=214430) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:05,045] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:05,046] {logging_mixin.py:109} INFO - [2021-10-12 22:56:05,045] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:05,631] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:05,642] {logging_mixin.py:109} INFO - [2021-10-12 22:56:05,641] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:05,649] {logging_mixin.py:109} INFO - [2021-10-12 22:56:05,649] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:05,658] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.615 seconds
+[2021-10-12 22:56:06,794] {processor.py:162} INFO - Started process (PID=214480) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:06,795] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:06,796] {logging_mixin.py:109} INFO - [2021-10-12 22:56:06,795] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:07,483] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:07,497] {logging_mixin.py:109} INFO - [2021-10-12 22:56:07,496] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:07,505] {logging_mixin.py:109} INFO - [2021-10-12 22:56:07,504] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:07,519] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.727 seconds
+[2021-10-12 22:56:08,659] {processor.py:162} INFO - Started process (PID=214501) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:08,661] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:08,662] {logging_mixin.py:109} INFO - [2021-10-12 22:56:08,661] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:09,134] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:09,141] {logging_mixin.py:109} INFO - [2021-10-12 22:56:09,141] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:09,148] {logging_mixin.py:109} INFO - [2021-10-12 22:56:09,148] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:09,157] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.499 seconds
+[2021-10-12 22:56:10,210] {processor.py:162} INFO - Started process (PID=214510) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:10,211] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:10,211] {logging_mixin.py:109} INFO - [2021-10-12 22:56:10,211] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:10,630] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:10,639] {logging_mixin.py:109} INFO - [2021-10-12 22:56:10,639] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:10,645] {logging_mixin.py:109} INFO - [2021-10-12 22:56:10,645] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:10,653] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.446 seconds
+[2021-10-12 22:56:11,752] {processor.py:162} INFO - Started process (PID=214519) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:11,753] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:11,754] {logging_mixin.py:109} INFO - [2021-10-12 22:56:11,754] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:12,136] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:12,145] {logging_mixin.py:109} INFO - [2021-10-12 22:56:12,145] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:12,152] {logging_mixin.py:109} INFO - [2021-10-12 22:56:12,152] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:12,161] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.410 seconds
+[2021-10-12 22:56:12,665] {processor.py:162} INFO - Started process (PID=214529) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:12,666] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:12,667] {logging_mixin.py:109} INFO - [2021-10-12 22:56:12,666] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:13,080] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:13,090] {logging_mixin.py:109} INFO - [2021-10-12 22:56:13,089] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:13,098] {logging_mixin.py:109} INFO - [2021-10-12 22:56:13,098] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:13,107] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.444 seconds
+[2021-10-12 22:56:14,839] {processor.py:162} INFO - Started process (PID=214564) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:14,840] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:14,841] {logging_mixin.py:109} INFO - [2021-10-12 22:56:14,841] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:15,310] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:15,319] {logging_mixin.py:109} INFO - [2021-10-12 22:56:15,319] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:15,326] {logging_mixin.py:109} INFO - [2021-10-12 22:56:15,326] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:15,335] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.499 seconds
+[2021-10-12 22:56:16,492] {processor.py:162} INFO - Started process (PID=214597) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:16,493] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:16,494] {logging_mixin.py:109} INFO - [2021-10-12 22:56:16,494] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:16,855] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:16,863] {logging_mixin.py:109} INFO - [2021-10-12 22:56:16,863] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:16,869] {logging_mixin.py:109} INFO - [2021-10-12 22:56:16,869] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:16,876] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.386 seconds
+[2021-10-12 22:56:17,323] {processor.py:162} INFO - Started process (PID=214605) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:17,324] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:17,325] {logging_mixin.py:109} INFO - [2021-10-12 22:56:17,325] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:17,692] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:17,700] {logging_mixin.py:109} INFO - [2021-10-12 22:56:17,699] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:17,705] {logging_mixin.py:109} INFO - [2021-10-12 22:56:17,705] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:17,712] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.391 seconds
+[2021-10-12 22:56:18,787] {processor.py:162} INFO - Started process (PID=214613) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:18,789] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:18,790] {logging_mixin.py:109} INFO - [2021-10-12 22:56:18,790] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:19,307] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:19,323] {logging_mixin.py:109} INFO - [2021-10-12 22:56:19,322] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:19,329] {logging_mixin.py:109} INFO - [2021-10-12 22:56:19,329] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:19,337] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.552 seconds
+[2021-10-12 22:56:19,833] {processor.py:162} INFO - Started process (PID=214637) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:19,835] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:19,835] {logging_mixin.py:109} INFO - [2021-10-12 22:56:19,835] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:20,183] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:20,190] {logging_mixin.py:109} INFO - [2021-10-12 22:56:20,190] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:20,195] {logging_mixin.py:109} INFO - [2021-10-12 22:56:20,195] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:20,203] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.372 seconds
+[2021-10-12 22:56:21,300] {processor.py:162} INFO - Started process (PID=214653) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:21,301] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:21,302] {logging_mixin.py:109} INFO - [2021-10-12 22:56:21,302] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:21,766] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:21,775] {logging_mixin.py:109} INFO - [2021-10-12 22:56:21,775] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:21,782] {logging_mixin.py:109} INFO - [2021-10-12 22:56:21,781] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:21,789] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.491 seconds
+[2021-10-12 22:56:22,874] {processor.py:162} INFO - Started process (PID=214663) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:22,875] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:22,875] {logging_mixin.py:109} INFO - [2021-10-12 22:56:22,875] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:23,258] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:23,265] {logging_mixin.py:109} INFO - [2021-10-12 22:56:23,265] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:23,271] {logging_mixin.py:109} INFO - [2021-10-12 22:56:23,271] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:23,280] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.408 seconds
+[2021-10-12 22:56:24,439] {processor.py:162} INFO - Started process (PID=214672) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:24,441] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:24,441] {logging_mixin.py:109} INFO - [2021-10-12 22:56:24,441] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:24,838] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:24,846] {logging_mixin.py:109} INFO - [2021-10-12 22:56:24,846] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:24,854] {logging_mixin.py:109} INFO - [2021-10-12 22:56:24,854] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:24,861] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.424 seconds
+[2021-10-12 22:56:25,299] {processor.py:162} INFO - Started process (PID=214680) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:25,300] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:25,301] {logging_mixin.py:109} INFO - [2021-10-12 22:56:25,300] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:25,631] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:25,639] {logging_mixin.py:109} INFO - [2021-10-12 22:56:25,639] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:25,646] {logging_mixin.py:109} INFO - [2021-10-12 22:56:25,645] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:25,653] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.356 seconds
+[2021-10-12 22:56:26,765] {processor.py:162} INFO - Started process (PID=214688) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:26,766] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:26,766] {logging_mixin.py:109} INFO - [2021-10-12 22:56:26,766] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:27,117] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:27,124] {logging_mixin.py:109} INFO - [2021-10-12 22:56:27,123] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:27,129] {logging_mixin.py:109} INFO - [2021-10-12 22:56:27,128] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:27,135] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.372 seconds
+[2021-10-12 22:56:28,223] {processor.py:162} INFO - Started process (PID=214701) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:28,224] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:28,225] {logging_mixin.py:109} INFO - [2021-10-12 22:56:28,225] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:28,593] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:28,601] {logging_mixin.py:109} INFO - [2021-10-12 22:56:28,601] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:28,606] {logging_mixin.py:109} INFO - [2021-10-12 22:56:28,606] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:28,613] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.393 seconds
+[2021-10-12 22:56:29,760] {processor.py:162} INFO - Started process (PID=214717) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:29,762] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:29,763] {logging_mixin.py:109} INFO - [2021-10-12 22:56:29,763] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:30,141] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:30,150] {logging_mixin.py:109} INFO - [2021-10-12 22:56:30,150] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:30,156] {logging_mixin.py:109} INFO - [2021-10-12 22:56:30,156] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:30,164] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.406 seconds
+[2021-10-12 22:56:30,768] {processor.py:162} INFO - Started process (PID=214725) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:30,769] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:30,770] {logging_mixin.py:109} INFO - [2021-10-12 22:56:30,770] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:31,300] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:31,311] {logging_mixin.py:109} INFO - [2021-10-12 22:56:31,311] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:31,320] {logging_mixin.py:109} INFO - [2021-10-12 22:56:31,320] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:31,331] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.565 seconds
+[2021-10-12 22:56:32,456] {processor.py:162} INFO - Started process (PID=214741) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:32,457] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:32,457] {logging_mixin.py:109} INFO - [2021-10-12 22:56:32,457] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:32,790] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:32,797] {logging_mixin.py:109} INFO - [2021-10-12 22:56:32,797] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:32,802] {logging_mixin.py:109} INFO - [2021-10-12 22:56:32,802] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:32,809] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.355 seconds
+[2021-10-12 22:56:33,929] {processor.py:162} INFO - Started process (PID=214749) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:33,930] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:33,930] {logging_mixin.py:109} INFO - [2021-10-12 22:56:33,930] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:34,332] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:34,339] {logging_mixin.py:109} INFO - [2021-10-12 22:56:34,339] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:34,344] {logging_mixin.py:109} INFO - [2021-10-12 22:56:34,344] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:34,351] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.425 seconds
+[2021-10-12 22:56:35,487] {processor.py:162} INFO - Started process (PID=214757) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:35,488] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:35,489] {logging_mixin.py:109} INFO - [2021-10-12 22:56:35,489] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:35,823] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:35,830] {logging_mixin.py:109} INFO - [2021-10-12 22:56:35,830] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:35,835] {logging_mixin.py:109} INFO - [2021-10-12 22:56:35,835] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:35,842] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.357 seconds
+[2021-10-12 22:56:37,641] {processor.py:162} INFO - Started process (PID=214766) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:37,642] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:37,642] {logging_mixin.py:109} INFO - [2021-10-12 22:56:37,642] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:38,032] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:38,040] {logging_mixin.py:109} INFO - [2021-10-12 22:56:38,039] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:38,046] {logging_mixin.py:109} INFO - [2021-10-12 22:56:38,046] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:38,053] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.415 seconds
+[2021-10-12 22:56:39,195] {processor.py:162} INFO - Started process (PID=214774) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:39,196] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:39,196] {logging_mixin.py:109} INFO - [2021-10-12 22:56:39,196] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:39,545] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:39,553] {logging_mixin.py:109} INFO - [2021-10-12 22:56:39,553] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:39,559] {logging_mixin.py:109} INFO - [2021-10-12 22:56:39,559] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:39,567] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.374 seconds
+[2021-10-12 22:56:40,666] {processor.py:162} INFO - Started process (PID=214782) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:40,666] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:40,667] {logging_mixin.py:109} INFO - [2021-10-12 22:56:40,667] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:40,995] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:41,003] {logging_mixin.py:109} INFO - [2021-10-12 22:56:41,002] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:41,008] {logging_mixin.py:109} INFO - [2021-10-12 22:56:41,008] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:41,015] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.352 seconds
+[2021-10-12 22:56:41,639] {processor.py:162} INFO - Started process (PID=214790) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:41,640] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:41,641] {logging_mixin.py:109} INFO - [2021-10-12 22:56:41,641] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:41,988] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:41,996] {logging_mixin.py:109} INFO - [2021-10-12 22:56:41,996] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:42,002] {logging_mixin.py:109} INFO - [2021-10-12 22:56:42,002] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:42,010] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.372 seconds
+[2021-10-12 22:56:43,117] {processor.py:162} INFO - Started process (PID=214798) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:43,118] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:43,119] {logging_mixin.py:109} INFO - [2021-10-12 22:56:43,119] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:43,472] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:43,481] {logging_mixin.py:109} INFO - [2021-10-12 22:56:43,480] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:43,487] {logging_mixin.py:109} INFO - [2021-10-12 22:56:43,487] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:43,495] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.381 seconds
+[2021-10-12 22:56:44,577] {processor.py:162} INFO - Started process (PID=214806) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:44,577] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:44,578] {logging_mixin.py:109} INFO - [2021-10-12 22:56:44,578] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:44,912] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:44,919] {logging_mixin.py:109} INFO - [2021-10-12 22:56:44,918] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:44,924] {logging_mixin.py:109} INFO - [2021-10-12 22:56:44,923] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:44,930] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.356 seconds
+[2021-10-12 22:56:46,036] {processor.py:162} INFO - Started process (PID=214814) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:46,037] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:46,038] {logging_mixin.py:109} INFO - [2021-10-12 22:56:46,038] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:46,375] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:46,385] {logging_mixin.py:109} INFO - [2021-10-12 22:56:46,384] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:46,391] {logging_mixin.py:109} INFO - [2021-10-12 22:56:46,391] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:46,399] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.364 seconds
+[2021-10-12 22:56:47,115] {processor.py:162} INFO - Started process (PID=214822) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:47,115] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:47,116] {logging_mixin.py:109} INFO - [2021-10-12 22:56:47,116] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:47,554] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:47,566] {logging_mixin.py:109} INFO - [2021-10-12 22:56:47,566] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:47,575] {logging_mixin.py:109} INFO - [2021-10-12 22:56:47,575] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:47,588] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.475 seconds
+[2021-10-12 22:56:47,923] {processor.py:162} INFO - Started process (PID=214837) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:47,923] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:47,924] {logging_mixin.py:109} INFO - [2021-10-12 22:56:47,924] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:48,297] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:48,304] {logging_mixin.py:109} INFO - [2021-10-12 22:56:48,304] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:48,309] {logging_mixin.py:109} INFO - [2021-10-12 22:56:48,309] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:48,316] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.396 seconds
+[2021-10-12 22:56:49,390] {processor.py:162} INFO - Started process (PID=214856) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:49,391] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:49,391] {logging_mixin.py:109} INFO - [2021-10-12 22:56:49,391] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:49,907] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:49,916] {logging_mixin.py:109} INFO - [2021-10-12 22:56:49,916] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:49,923] {logging_mixin.py:109} INFO - [2021-10-12 22:56:49,923] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:49,933] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.545 seconds
+[2021-10-12 22:56:51,071] {processor.py:162} INFO - Started process (PID=214865) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:51,072] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:51,072] {logging_mixin.py:109} INFO - [2021-10-12 22:56:51,072] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:51,420] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:51,426] {logging_mixin.py:109} INFO - [2021-10-12 22:56:51,426] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:51,431] {logging_mixin.py:109} INFO - [2021-10-12 22:56:51,431] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:51,438] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.369 seconds
+[2021-10-12 22:56:52,528] {processor.py:162} INFO - Started process (PID=214873) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:52,529] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:52,529] {logging_mixin.py:109} INFO - [2021-10-12 22:56:52,529] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:52,894] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:52,901] {logging_mixin.py:109} INFO - [2021-10-12 22:56:52,901] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:52,907] {logging_mixin.py:109} INFO - [2021-10-12 22:56:52,907] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:52,915] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.389 seconds
+[2021-10-12 22:56:54,014] {processor.py:162} INFO - Started process (PID=214881) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:54,015] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:54,015] {logging_mixin.py:109} INFO - [2021-10-12 22:56:54,015] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:54,396] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:54,402] {logging_mixin.py:109} INFO - [2021-10-12 22:56:54,402] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:54,407] {logging_mixin.py:109} INFO - [2021-10-12 22:56:54,407] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:54,416] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.404 seconds
+[2021-10-12 22:56:55,578] {processor.py:162} INFO - Started process (PID=214889) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:55,579] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:55,579] {logging_mixin.py:109} INFO - [2021-10-12 22:56:55,579] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:55,982] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:55,990] {logging_mixin.py:109} INFO - [2021-10-12 22:56:55,990] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:55,997] {logging_mixin.py:109} INFO - [2021-10-12 22:56:55,997] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:56,004] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.429 seconds
+[2021-10-12 22:56:57,136] {processor.py:162} INFO - Started process (PID=214897) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:57,136] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:57,137] {logging_mixin.py:109} INFO - [2021-10-12 22:56:57,137] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:57,492] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:57,499] {logging_mixin.py:109} INFO - [2021-10-12 22:56:57,499] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:57,506] {logging_mixin.py:109} INFO - [2021-10-12 22:56:57,506] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:57,514] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.380 seconds
+[2021-10-12 22:56:58,015] {processor.py:162} INFO - Started process (PID=214907) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:58,016] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:58,017] {logging_mixin.py:109} INFO - [2021-10-12 22:56:58,017] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:58,404] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:58,413] {logging_mixin.py:109} INFO - [2021-10-12 22:56:58,413] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:58,419] {logging_mixin.py:109} INFO - [2021-10-12 22:56:58,419] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:58,426] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.413 seconds
+[2021-10-12 22:56:59,578] {processor.py:162} INFO - Started process (PID=214917) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:59,579] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:56:59,580] {logging_mixin.py:109} INFO - [2021-10-12 22:56:59,579] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:59,939] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:56:59,946] {logging_mixin.py:109} INFO - [2021-10-12 22:56:59,946] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:56:59,951] {logging_mixin.py:109} INFO - [2021-10-12 22:56:59,951] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:56:59,974] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.397 seconds
+[2021-10-12 22:57:01,046] {processor.py:162} INFO - Started process (PID=214925) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:01,047] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:01,048] {logging_mixin.py:109} INFO - [2021-10-12 22:57:01,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:01,523] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:01,531] {logging_mixin.py:109} INFO - [2021-10-12 22:57:01,530] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:01,538] {logging_mixin.py:109} INFO - [2021-10-12 22:57:01,538] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:01,547] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.504 seconds
+[2021-10-12 22:57:02,707] {processor.py:162} INFO - Started process (PID=214936) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:02,707] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:02,708] {logging_mixin.py:109} INFO - [2021-10-12 22:57:02,708] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:03,069] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:03,076] {logging_mixin.py:109} INFO - [2021-10-12 22:57:03,076] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:03,081] {logging_mixin.py:109} INFO - [2021-10-12 22:57:03,081] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:03,088] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.383 seconds
+[2021-10-12 22:57:03,390] {processor.py:162} INFO - Started process (PID=214944) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:03,391] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:03,391] {logging_mixin.py:109} INFO - [2021-10-12 22:57:03,391] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:03,772] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:03,779] {logging_mixin.py:109} INFO - [2021-10-12 22:57:03,779] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:03,785] {logging_mixin.py:109} INFO - [2021-10-12 22:57:03,785] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:03,793] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.404 seconds
+[2021-10-12 22:57:04,959] {processor.py:162} INFO - Started process (PID=214952) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:04,960] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:04,960] {logging_mixin.py:109} INFO - [2021-10-12 22:57:04,960] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:05,278] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:05,286] {logging_mixin.py:109} INFO - [2021-10-12 22:57:05,285] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:05,292] {logging_mixin.py:109} INFO - [2021-10-12 22:57:05,292] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:05,299] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.342 seconds
+[2021-10-12 22:57:06,425] {processor.py:162} INFO - Started process (PID=214960) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:06,425] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:06,426] {logging_mixin.py:109} INFO - [2021-10-12 22:57:06,426] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:06,738] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:06,744] {logging_mixin.py:109} INFO - [2021-10-12 22:57:06,744] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:06,749] {logging_mixin.py:109} INFO - [2021-10-12 22:57:06,749] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:06,756] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.333 seconds
+[2021-10-12 22:57:07,880] {processor.py:162} INFO - Started process (PID=214968) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:07,881] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:07,881] {logging_mixin.py:109} INFO - [2021-10-12 22:57:07,881] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:08,204] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:08,212] {logging_mixin.py:109} INFO - [2021-10-12 22:57:08,211] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:08,216] {logging_mixin.py:109} INFO - [2021-10-12 22:57:08,216] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:08,223] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.345 seconds
+[2021-10-12 22:57:10,124] {processor.py:162} INFO - Started process (PID=214977) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:10,125] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:10,125] {logging_mixin.py:109} INFO - [2021-10-12 22:57:10,125] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:10,555] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:10,562] {logging_mixin.py:109} INFO - [2021-10-12 22:57:10,562] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:10,569] {logging_mixin.py:109} INFO - [2021-10-12 22:57:10,568] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:10,576] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.455 seconds
+[2021-10-12 22:57:11,680] {processor.py:162} INFO - Started process (PID=214985) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:11,681] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:11,682] {logging_mixin.py:109} INFO - [2021-10-12 22:57:11,682] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:12,054] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:12,061] {logging_mixin.py:109} INFO - [2021-10-12 22:57:12,061] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:12,068] {logging_mixin.py:109} INFO - [2021-10-12 22:57:12,068] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:12,075] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.396 seconds
+[2021-10-12 22:57:13,142] {processor.py:162} INFO - Started process (PID=214997) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:13,142] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:13,143] {logging_mixin.py:109} INFO - [2021-10-12 22:57:13,143] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:13,544] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:13,551] {logging_mixin.py:109} INFO - [2021-10-12 22:57:13,551] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:13,557] {logging_mixin.py:109} INFO - [2021-10-12 22:57:13,557] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:13,566] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.426 seconds
+[2021-10-12 22:57:29,380] {processor.py:162} INFO - Started process (PID=215025) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:29,381] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:29,382] {logging_mixin.py:109} INFO - [2021-10-12 22:57:29,382] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:29,726] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:29,733] {logging_mixin.py:109} INFO - [2021-10-12 22:57:29,733] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:29,738] {logging_mixin.py:109} INFO - [2021-10-12 22:57:29,738] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:29,745] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.367 seconds
+[2021-10-12 22:57:36,908] {processor.py:162} INFO - Started process (PID=215043) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:36,909] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:36,909] {logging_mixin.py:109} INFO - [2021-10-12 22:57:36,909] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:37,251] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:37,258] {logging_mixin.py:109} INFO - [2021-10-12 22:57:37,258] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:37,264] {logging_mixin.py:109} INFO - [2021-10-12 22:57:37,263] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:37,271] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.364 seconds
+[2021-10-12 22:57:38,376] {processor.py:162} INFO - Started process (PID=215051) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:38,377] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:38,377] {logging_mixin.py:109} INFO - [2021-10-12 22:57:38,377] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:38,838] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:38,846] {logging_mixin.py:109} INFO - [2021-10-12 22:57:38,846] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:38,852] {logging_mixin.py:109} INFO - [2021-10-12 22:57:38,852] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:38,860] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.486 seconds
+[2021-10-12 22:57:39,946] {processor.py:162} INFO - Started process (PID=215059) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:39,947] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:39,948] {logging_mixin.py:109} INFO - [2021-10-12 22:57:39,948] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:40,412] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:40,419] {logging_mixin.py:109} INFO - [2021-10-12 22:57:40,419] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:40,425] {logging_mixin.py:109} INFO - [2021-10-12 22:57:40,425] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:40,431] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.488 seconds
+[2021-10-12 22:57:41,911] {processor.py:162} INFO - Started process (PID=215068) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:41,912] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:41,914] {logging_mixin.py:109} INFO - [2021-10-12 22:57:41,913] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:42,372] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:42,383] {logging_mixin.py:109} INFO - [2021-10-12 22:57:42,382] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:42,391] {logging_mixin.py:109} INFO - [2021-10-12 22:57:42,391] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:42,399] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.490 seconds
+[2021-10-12 22:57:43,490] {processor.py:162} INFO - Started process (PID=215076) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:43,490] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:43,491] {logging_mixin.py:109} INFO - [2021-10-12 22:57:43,491] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:43,861] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:43,869] {logging_mixin.py:109} INFO - [2021-10-12 22:57:43,869] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:43,875] {logging_mixin.py:109} INFO - [2021-10-12 22:57:43,875] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:43,882] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.394 seconds
+[2021-10-12 22:57:44,377] {processor.py:162} INFO - Started process (PID=215084) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:44,378] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:44,378] {logging_mixin.py:109} INFO - [2021-10-12 22:57:44,378] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:44,722] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:44,731] {logging_mixin.py:109} INFO - [2021-10-12 22:57:44,731] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:44,738] {logging_mixin.py:109} INFO - [2021-10-12 22:57:44,738] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:44,746] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.370 seconds
+[2021-10-12 22:57:45,841] {processor.py:162} INFO - Started process (PID=215092) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:45,842] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:45,842] {logging_mixin.py:109} INFO - [2021-10-12 22:57:45,842] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:46,194] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:46,202] {logging_mixin.py:109} INFO - [2021-10-12 22:57:46,201] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:46,207] {logging_mixin.py:109} INFO - [2021-10-12 22:57:46,206] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:46,213] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.374 seconds
+[2021-10-12 22:57:47,296] {processor.py:162} INFO - Started process (PID=215100) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:47,297] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:47,298] {logging_mixin.py:109} INFO - [2021-10-12 22:57:47,298] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:47,638] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:47,646] {logging_mixin.py:109} INFO - [2021-10-12 22:57:47,646] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:47,653] {logging_mixin.py:109} INFO - [2021-10-12 22:57:47,652] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:47,660] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.365 seconds
+[2021-10-12 22:57:48,765] {processor.py:162} INFO - Started process (PID=215108) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:48,766] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:48,767] {logging_mixin.py:109} INFO - [2021-10-12 22:57:48,766] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:49,175] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:49,182] {logging_mixin.py:109} INFO - [2021-10-12 22:57:49,182] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:49,187] {logging_mixin.py:109} INFO - [2021-10-12 22:57:49,187] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:49,194] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.431 seconds
+[2021-10-12 22:57:50,359] {processor.py:162} INFO - Started process (PID=215117) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:50,360] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:50,361] {logging_mixin.py:109} INFO - [2021-10-12 22:57:50,361] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:50,753] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:50,762] {logging_mixin.py:109} INFO - [2021-10-12 22:57:50,761] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:50,771] {logging_mixin.py:109} INFO - [2021-10-12 22:57:50,770] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:50,781] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.425 seconds
+[2021-10-12 22:57:51,898] {processor.py:162} INFO - Started process (PID=215125) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:51,899] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:51,899] {logging_mixin.py:109} INFO - [2021-10-12 22:57:51,899] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:52,287] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:52,295] {logging_mixin.py:109} INFO - [2021-10-12 22:57:52,294] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:52,302] {logging_mixin.py:109} INFO - [2021-10-12 22:57:52,302] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:52,309] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.412 seconds
+[2021-10-12 22:57:52,762] {processor.py:162} INFO - Started process (PID=215133) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:52,763] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:52,763] {logging_mixin.py:109} INFO - [2021-10-12 22:57:52,763] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:53,100] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:53,108] {logging_mixin.py:109} INFO - [2021-10-12 22:57:53,108] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:53,114] {logging_mixin.py:109} INFO - [2021-10-12 22:57:53,114] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:53,121] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.361 seconds
+[2021-10-12 22:57:54,235] {processor.py:162} INFO - Started process (PID=215147) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:54,236] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:54,237] {logging_mixin.py:109} INFO - [2021-10-12 22:57:54,236] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:54,624] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:54,632] {logging_mixin.py:109} INFO - [2021-10-12 22:57:54,631] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:54,637] {logging_mixin.py:109} INFO - [2021-10-12 22:57:54,637] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:54,645] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.413 seconds
+[2021-10-12 22:57:55,791] {processor.py:162} INFO - Started process (PID=215155) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:55,792] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:55,793] {logging_mixin.py:109} INFO - [2021-10-12 22:57:55,792] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:56,148] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:56,157] {logging_mixin.py:109} INFO - [2021-10-12 22:57:56,156] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:56,162] {logging_mixin.py:109} INFO - [2021-10-12 22:57:56,162] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:56,169] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.380 seconds
+[2021-10-12 22:57:57,244] {processor.py:162} INFO - Started process (PID=215163) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:57,245] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:57,246] {logging_mixin.py:109} INFO - [2021-10-12 22:57:57,246] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:57,639] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:57,647] {logging_mixin.py:109} INFO - [2021-10-12 22:57:57,647] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:57,654] {logging_mixin.py:109} INFO - [2021-10-12 22:57:57,654] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:57,661] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.419 seconds
+[2021-10-12 22:57:58,233] {processor.py:162} INFO - Started process (PID=215172) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:58,234] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:58,234] {logging_mixin.py:109} INFO - [2021-10-12 22:57:58,234] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:58,622] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:58,630] {logging_mixin.py:109} INFO - [2021-10-12 22:57:58,630] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:57:58,638] {logging_mixin.py:109} INFO - [2021-10-12 22:57:58,638] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:57:58,648] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.417 seconds
+[2021-10-12 22:57:59,799] {processor.py:162} INFO - Started process (PID=215204) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:57:59,801] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:57:59,802] {logging_mixin.py:109} INFO - [2021-10-12 22:57:59,802] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:00,243] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:00,255] {logging_mixin.py:109} INFO - [2021-10-12 22:58:00,255] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:00,263] {logging_mixin.py:109} INFO - [2021-10-12 22:58:00,263] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:00,270] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.473 seconds
+[2021-10-12 22:58:01,372] {processor.py:162} INFO - Started process (PID=215218) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:01,372] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:01,373] {logging_mixin.py:109} INFO - [2021-10-12 22:58:01,373] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:01,707] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:01,714] {logging_mixin.py:109} INFO - [2021-10-12 22:58:01,713] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:01,719] {logging_mixin.py:109} INFO - [2021-10-12 22:58:01,719] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:01,726] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.356 seconds
+[2021-10-12 22:58:02,829] {processor.py:162} INFO - Started process (PID=215226) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:02,830] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:02,830] {logging_mixin.py:109} INFO - [2021-10-12 22:58:02,830] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:03,171] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:03,180] {logging_mixin.py:109} INFO - [2021-10-12 22:58:03,180] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:03,186] {logging_mixin.py:109} INFO - [2021-10-12 22:58:03,186] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:03,194] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.367 seconds
+[2021-10-12 22:58:03,798] {processor.py:162} INFO - Started process (PID=215234) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:03,799] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:03,800] {logging_mixin.py:109} INFO - [2021-10-12 22:58:03,800] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:04,157] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:04,164] {logging_mixin.py:109} INFO - [2021-10-12 22:58:04,164] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:04,169] {logging_mixin.py:109} INFO - [2021-10-12 22:58:04,169] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:04,176] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.380 seconds
+[2021-10-12 22:58:05,272] {processor.py:162} INFO - Started process (PID=215242) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:05,274] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:05,274] {logging_mixin.py:109} INFO - [2021-10-12 22:58:05,274] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:05,629] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:05,635] {logging_mixin.py:109} INFO - [2021-10-12 22:58:05,635] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:05,640] {logging_mixin.py:109} INFO - [2021-10-12 22:58:05,640] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:05,647] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.377 seconds
+[2021-10-12 22:58:06,731] {processor.py:162} INFO - Started process (PID=215250) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:06,732] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:06,732] {logging_mixin.py:109} INFO - [2021-10-12 22:58:06,732] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:07,072] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:07,079] {logging_mixin.py:109} INFO - [2021-10-12 22:58:07,078] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:07,084] {logging_mixin.py:109} INFO - [2021-10-12 22:58:07,084] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:07,090] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.361 seconds
+[2021-10-12 22:58:08,189] {processor.py:162} INFO - Started process (PID=215258) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:08,190] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:08,190] {logging_mixin.py:109} INFO - [2021-10-12 22:58:08,190] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:08,576] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:08,584] {logging_mixin.py:109} INFO - [2021-10-12 22:58:08,584] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:08,590] {logging_mixin.py:109} INFO - [2021-10-12 22:58:08,589] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:08,597] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.410 seconds
+[2021-10-12 22:58:09,273] {processor.py:162} INFO - Started process (PID=215266) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:09,273] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:09,274] {logging_mixin.py:109} INFO - [2021-10-12 22:58:09,274] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:09,641] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:09,651] {logging_mixin.py:109} INFO - [2021-10-12 22:58:09,651] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:09,657] {logging_mixin.py:109} INFO - [2021-10-12 22:58:09,657] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:09,666] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.395 seconds
+[2021-10-12 22:58:10,767] {processor.py:162} INFO - Started process (PID=215280) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:10,768] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:10,769] {logging_mixin.py:109} INFO - [2021-10-12 22:58:10,768] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:11,092] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:11,100] {logging_mixin.py:109} INFO - [2021-10-12 22:58:11,099] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:11,104] {logging_mixin.py:109} INFO - [2021-10-12 22:58:11,104] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:11,111] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.347 seconds
+[2021-10-12 22:58:12,227] {processor.py:162} INFO - Started process (PID=215290) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:12,228] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:12,230] {logging_mixin.py:109} INFO - [2021-10-12 22:58:12,229] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:12,596] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:12,603] {logging_mixin.py:109} INFO - [2021-10-12 22:58:12,602] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:12,609] {logging_mixin.py:109} INFO - [2021-10-12 22:58:12,609] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:12,616] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.391 seconds
+[2021-10-12 22:58:14,766] {processor.py:162} INFO - Started process (PID=215299) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:14,767] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:14,767] {logging_mixin.py:109} INFO - [2021-10-12 22:58:14,767] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:15,096] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:15,104] {logging_mixin.py:109} INFO - [2021-10-12 22:58:15,104] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:15,109] {logging_mixin.py:109} INFO - [2021-10-12 22:58:15,109] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:15,117] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.353 seconds
+[2021-10-12 22:58:15,367] {processor.py:162} INFO - Started process (PID=215307) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:15,368] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:15,368] {logging_mixin.py:109} INFO - [2021-10-12 22:58:15,368] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:15,725] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:15,732] {logging_mixin.py:109} INFO - [2021-10-12 22:58:15,732] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:15,737] {logging_mixin.py:109} INFO - [2021-10-12 22:58:15,737] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:15,743] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.378 seconds
+[2021-10-12 22:58:16,829] {processor.py:162} INFO - Started process (PID=215315) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:16,830] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:16,830] {logging_mixin.py:109} INFO - [2021-10-12 22:58:16,830] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:17,200] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:17,209] {logging_mixin.py:109} INFO - [2021-10-12 22:58:17,209] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:17,215] {logging_mixin.py:109} INFO - [2021-10-12 22:58:17,215] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:17,222] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.395 seconds
+[2021-10-12 22:58:18,287] {processor.py:162} INFO - Started process (PID=215323) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:18,288] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:18,289] {logging_mixin.py:109} INFO - [2021-10-12 22:58:18,289] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:18,661] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:18,669] {logging_mixin.py:109} INFO - [2021-10-12 22:58:18,668] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:18,674] {logging_mixin.py:109} INFO - [2021-10-12 22:58:18,674] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:18,682] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.397 seconds
+[2021-10-12 22:58:19,749] {processor.py:162} INFO - Started process (PID=215331) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:19,750] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:19,750] {logging_mixin.py:109} INFO - [2021-10-12 22:58:19,750] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:20,102] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:20,109] {logging_mixin.py:109} INFO - [2021-10-12 22:58:20,109] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:20,114] {logging_mixin.py:109} INFO - [2021-10-12 22:58:20,114] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:20,121] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.374 seconds
+[2021-10-12 22:58:20,243] {processor.py:162} INFO - Started process (PID=215339) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:20,243] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:20,244] {logging_mixin.py:109} INFO - [2021-10-12 22:58:20,244] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:20,603] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:20,609] {logging_mixin.py:109} INFO - [2021-10-12 22:58:20,609] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:20,615] {logging_mixin.py:109} INFO - [2021-10-12 22:58:20,615] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:20,621] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.381 seconds
+[2021-10-12 22:58:21,710] {processor.py:162} INFO - Started process (PID=215347) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:21,711] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:21,711] {logging_mixin.py:109} INFO - [2021-10-12 22:58:21,711] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:22,084] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:22,092] {logging_mixin.py:109} INFO - [2021-10-12 22:58:22,092] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:22,098] {logging_mixin.py:109} INFO - [2021-10-12 22:58:22,098] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:22,105] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.397 seconds
+[2021-10-12 22:58:23,179] {processor.py:162} INFO - Started process (PID=215355) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:23,180] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:23,180] {logging_mixin.py:109} INFO - [2021-10-12 22:58:23,180] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:23,585] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:23,595] {logging_mixin.py:109} INFO - [2021-10-12 22:58:23,595] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:23,601] {logging_mixin.py:109} INFO - [2021-10-12 22:58:23,601] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:23,609] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.432 seconds
+[2021-10-12 22:58:24,737] {processor.py:162} INFO - Started process (PID=215363) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:24,738] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:24,738] {logging_mixin.py:109} INFO - [2021-10-12 22:58:24,738] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:25,183] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:25,193] {logging_mixin.py:109} INFO - [2021-10-12 22:58:25,193] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:25,207] {logging_mixin.py:109} INFO - [2021-10-12 22:58:25,207] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:25,217] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.483 seconds
+[2021-10-12 22:58:25,709] {processor.py:162} INFO - Started process (PID=215371) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:25,710] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:25,711] {logging_mixin.py:109} INFO - [2021-10-12 22:58:25,711] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:26,107] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:26,116] {logging_mixin.py:109} INFO - [2021-10-12 22:58:26,116] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:26,124] {logging_mixin.py:109} INFO - [2021-10-12 22:58:26,124] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:26,134] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.427 seconds
+[2021-10-12 22:58:27,306] {processor.py:162} INFO - Started process (PID=215379) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:27,306] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:27,307] {logging_mixin.py:109} INFO - [2021-10-12 22:58:27,307] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:27,900] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:27,908] {logging_mixin.py:109} INFO - [2021-10-12 22:58:27,907] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:27,914] {logging_mixin.py:109} INFO - [2021-10-12 22:58:27,914] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:27,922] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.619 seconds
+[2021-10-12 22:58:29,074] {processor.py:162} INFO - Started process (PID=215395) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:29,075] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:29,075] {logging_mixin.py:109} INFO - [2021-10-12 22:58:29,075] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:29,440] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:29,447] {logging_mixin.py:109} INFO - [2021-10-12 22:58:29,446] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:29,451] {logging_mixin.py:109} INFO - [2021-10-12 22:58:29,451] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:29,458] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.386 seconds
+[2021-10-12 22:58:30,531] {processor.py:162} INFO - Started process (PID=215415) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:30,532] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:30,533] {logging_mixin.py:109} INFO - [2021-10-12 22:58:30,533] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:30,910] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:30,917] {logging_mixin.py:109} INFO - [2021-10-12 22:58:30,917] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:30,923] {logging_mixin.py:109} INFO - [2021-10-12 22:58:30,923] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:30,930] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.402 seconds
+[2021-10-12 22:58:31,302] {processor.py:162} INFO - Started process (PID=215423) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:31,303] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:31,304] {logging_mixin.py:109} INFO - [2021-10-12 22:58:31,304] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:31,658] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:31,666] {logging_mixin.py:109} INFO - [2021-10-12 22:58:31,666] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:31,671] {logging_mixin.py:109} INFO - [2021-10-12 22:58:31,671] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:31,678] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.378 seconds
+[2021-10-12 22:58:32,776] {processor.py:162} INFO - Started process (PID=215431) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:32,777] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:32,777] {logging_mixin.py:109} INFO - [2021-10-12 22:58:32,777] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:33,139] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:33,149] {logging_mixin.py:109} INFO - [2021-10-12 22:58:33,148] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:33,154] {logging_mixin.py:109} INFO - [2021-10-12 22:58:33,154] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:33,161] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.387 seconds
+[2021-10-12 22:58:34,242] {processor.py:162} INFO - Started process (PID=215439) to work on /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:34,242] {processor.py:613} INFO - Processing file /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py for tasks to queue
+[2021-10-12 22:58:34,243] {logging_mixin.py:109} INFO - [2021-10-12 22:58:34,243] {dagbag.py:496} INFO - Filling up the DagBag from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:34,588] {processor.py:623} INFO - DAG(s) dict_keys(['estate_pipeline']) retrieved from /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py
+[2021-10-12 22:58:34,596] {logging_mixin.py:109} INFO - [2021-10-12 22:58:34,595] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-10-12 22:58:34,601] {logging_mixin.py:109} INFO - [2021-10-12 22:58:34,601] {dag.py:2287} INFO - Setting next_dagrun for estate_pipeline to 2021-10-12 12:02:00+00:00
+[2021-10-12 22:58:34,608] {processor.py:170} INFO - Processing /home/swc/job_hunt/cbkpi/app/airflow_root/dags/main_dag.py took 0.368 seconds

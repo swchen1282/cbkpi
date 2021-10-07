@@ -1,1 +1,0 @@
-sudo docker build --network=host -t="airflow-app" --no-cache .
